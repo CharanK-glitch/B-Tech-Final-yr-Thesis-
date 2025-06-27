@@ -1,4 +1,8 @@
-# B-Tech-Final-yr-Thesis
+# THESIS REPORT
+submitted in final fulfillment of the requirements
+for the award of the degree of
+Bachelor of Technology in
+Electronics and Communication Engineering (ECE)
 
 ## RTL to GDS-II Implementation of Diabetic Retinopathy Detection,A Comprehensive Approach from Neural-Networks to VLSI Systems
 
